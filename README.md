@@ -1,2 +1,2 @@
 Learning Python
-Basic Projects To Learn Python
+Projects To Learn Python
