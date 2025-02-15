@@ -38,7 +38,6 @@ def compare(u_score, c_score):
 
 
 def play_game():
-    print(logo)
     user_cards = []
     computer_cards = []
     computer_score = -1
